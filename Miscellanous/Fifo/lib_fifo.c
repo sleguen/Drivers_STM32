@@ -21,8 +21,8 @@ u8 u8_FifoRead[FIFO_READ_SIZE];
 /* public function ===================================================== */
 
 /**
- * \fn void vd_lib_fifo_Init(s_Fifo* s_InitFifo)
- * \brief Initialisation de la librairie Fifo
+ * \fn void vd_lib_fifo_Init(void)
+ * \brief Initialize fifo library
  *
  * \param none
  * \return none
